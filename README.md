@@ -1,2 +1,12 @@
-# VaingloryPicker
-an app tells you what hero to pick in VainGlory
+<!DOCTYPE html>
+<html>
+<head>
+	<title>VainPicker</title>
+</head>
+<body>
+	<h1>Pick suggestion</h1>
+
+</body>
+</html>
+ 
+
